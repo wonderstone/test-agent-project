@@ -10,7 +10,7 @@
 | Document | Description |
 |---|---|
 | `README.md` | Project entry point and quick-start guide |
-| `ARCHITECTURE.md` | System architecture, module map, and service boundaries |
+| `ARCHITECTURE.md` | System architecture, component map, and the 4-layer instruction system |
 | `ROADMAP.md` | Phase planning, milestones, and acceptance criteria |
 
 ## Framework
@@ -28,5 +28,5 @@
 
 ---
 
-*Last updated: [YYYY-MM-DD]*
+*Last updated: 2026-03-26*
 *Maintainer rule: this file is updated as part of the commit that adds or removes a TYPE-A doc.*
